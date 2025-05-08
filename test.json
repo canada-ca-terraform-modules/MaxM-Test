@@ -6,7 +6,7 @@
      "enablePassiveMode" : false,
      "enforcementMode" : "blocking",
      "fullPath" : "/Common/test",
-     "name" : "test",
+     "name" : "AS3",
      "protocolIndependent" : false,
      "softwareVersion" : "17.1.2",
      "template" : {
